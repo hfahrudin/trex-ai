@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: [AI Playing Browser Game - T-rex run]
 description: [Implementing DQN in Pytorch and Opencv]
+show_downloads: ["true"]
