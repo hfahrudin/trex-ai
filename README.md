@@ -25,7 +25,6 @@ Here is the result after 6 hour training
 </p>
 <p align="center">Average executed action per run</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ubn38xWx8J4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Requirement
 1. opencv 3.4.3.18 
