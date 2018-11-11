@@ -25,8 +25,14 @@ Here is the result after 6 hour training
 </p>
 <p align="center">Average executed action per run</p>
 
+### Requirement
+1. opencv 3.4.3.18 
+2. pyautogui 0.9.38 
+3. pyscreenshot 0.4.2 
+4. pytorch 0.4.1
 
-### How to run 
+### How to run
+
 Step 1 : Open t-rex run game 
 
 Step 2 : Change `bbox` on `t_rex_env.py` to fit your game window
