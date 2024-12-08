@@ -108,3 +108,10 @@ python t_rex_env.py
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+## References
+
+1. **Playing Atari with Deep Reinforcement Learning**  
+   Volodymyr Mnih, et al. (2013). *Playing Atari with Deep Reinforcement Learning*. Retrieved from [link](https://arxiv.org/abs/1312.5602)
+
